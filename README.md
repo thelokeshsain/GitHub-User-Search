@@ -2,7 +2,7 @@
 
 A simple and beautifully styled web application to fetch and display GitHub user information using the [GitHub API](https://docs.github.com/en/rest). 🌟
 
-![App Screenshot](https://drive.google.com/drive/folders/1-Ls_FFxljouI4j_buWTdKwdkHAp1e5r6?usp=drive_link) 
+[App Screenshot](https://drive.google.com/drive/folders/1-Ls_FFxljouI4j_buWTdKwdkHAp1e5r6?usp=drive_link) 
 
 ## ✨ Features
 - 🔍 Fetch GitHub user details using their username.
