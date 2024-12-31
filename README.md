@@ -2,7 +2,7 @@
 
 A simple and beautifully styled web application to fetch and display GitHub user information using the [GitHub API](https://docs.github.com/en/rest). 🌟
 
-![App Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot) 
+![App Screenshot]https://drive.google.com/drive/folders/1-Ls_FFxljouI4j_buWTdKwdkHAp1e5r6?usp=drive_link) 
 
 ## ✨ Features
 - 🔍 Fetch GitHub user details using their username.
@@ -11,7 +11,7 @@ A simple and beautifully styled web application to fetch and display GitHub user
 - 🛠 Built with HTML, CSS, and JavaScript using Axios for API calls.
 
 ## 🖼️ Demo
-Try it out here: [GitHub User Info Viewer Live Demo](#) 
+Try it out here: [GitHub User Info Viewer Live Demo](https://drive.google.com/file/d/10eL9A0PG21Coy6zNfPvjfKLVLhs7vVGl/view?usp=drive_link) 
 
 ## 📂 Project Structure
 📦 Project Directory 
